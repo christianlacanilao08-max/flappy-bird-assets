@@ -1,0 +1,6 @@
+# This repository is a static collection of game assets (sprites, audio, favicon).
+# There is no framework, package manager, or build step: the files are published as-is
+# from the repository root.
+[build]
+  publish = "."
+  command = ""
